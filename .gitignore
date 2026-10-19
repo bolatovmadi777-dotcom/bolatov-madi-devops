@@ -1,0 +1,8 @@
+# Log files
+*.log
+
+# Local backups
+backup/
+
+# Secrets and local environment variables
+.env
