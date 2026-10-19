@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    image: bolatov-madi-devops
+    container_name: bolatov-madi-container
+    environment:
+      STUDENT_NAME: Madi
+      STUDENT_SURNAME: Bolatov
+      STUDENT_GROUP: IT2-2308
+      STUDENT_ID: "41511"
