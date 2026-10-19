@@ -15,5 +15,6 @@ echo "Name: $NAME"
 echo "Surname: $SURNAME"
 echo "Group: $GROUP"
 echo "Student ID: $ID"
+echo "Hostname: $(hostname)"
 echo
 echo "Application is running successfully!"
